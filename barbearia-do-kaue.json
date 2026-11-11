@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "identity": {
+    "name": "Barbearia do Kauê",
+    "shortName": "Kauê"
+  },
+  "assets": {
+    "logoUrl": "https://raw.githubusercontent.com/Barbearia-Tech/Barbearias/main/public/logo.png",
+    "logoMarkUrl": "https://raw.githubusercontent.com/Barbearia-Tech/Barbearias/main/public/logo-mark.png",
+    "faviconUrl": "https://raw.githubusercontent.com/Barbearia-Tech/Barbearias/main/public/logo.png",
+    "appleTouchIconUrl": "https://raw.githubusercontent.com/Barbearia-Tech/Barbearias/main/public/logo.png",
+    "notificationIconUrl": "https://raw.githubusercontent.com/Barbearia-Tech/Barbearias/main/public/favicon.svg",
+    "ogImage": "https://raw.githubusercontent.com/Barbearia-Tech/Barbearias/main/public/og-image.png"
+  },
+  "colors": {
+    "primary": "#f04452",
+    "primaryHover": "#ff5965",
+    "background": "#09090b",
+    "surface": "#131316",
+    "text": "#f4f4f5",
+    "success": "#34d399",
+    "warning": "#fbbf24",
+    "danger": "#f87171",
+    "info": "#60a5fa",
+    "mutedText": "#a1a1aa",
+    "border": "rgba(255, 255, 255, 0.09)"
+  },
+  "typography": {
+    "fontFamily": "Montserrat, sans-serif",
+    "headingFontFamily": "Montserrat, sans-serif"
+  },
+  "metadata": {
+    "title": "Barbearia do Kauê - Agendamento Online",
+    "description": "Agende seu horário online.",
+    "canonicalUrl": "https://example.com/",
+    "ogTitle": "Barbearia do Kauê - Agendamento Online",
+    "ogDescription": "Agende seu horário online.",
+    "locale": "pt_BR",
+    "themeColor": "#09090b"
+  },
+  "content": {
+    "tagline": "Agende seu horário online.",
+    "bookingEyebrow": "Vamos começar",
+    "bookingTitle": "Agende seu horário",
+    "bookingDescription": "Escolha os detalhes do atendimento e confirme sua reserva.",
+    "contactEyebrow": "Fale com a gente",
+    "contactTitle": "Contato",
+    "contactDescription": "Entre em contato ou venha nos visitar.",
+    "footerCredit": "Feito utilizando tecnologia da Barbearia.Tech"
+  },
+  "layout": {
+    "borderRadius": "lg",
+    "density": "comfortable",
+    "contentMaxWidth": "1600px"
+  }
+}
