@@ -38,15 +38,29 @@
     "locale": "pt_BR",
     "themeColor": "#09090b"
   },
-  "content": {
+   "content": {
     "tagline": "Agende seu horário online.",
     "bookingEyebrow": "Vamos começar",
     "bookingTitle": "Agende seu horário",
     "bookingDescription": "Escolha os detalhes do atendimento e confirme sua reserva.",
+    "authWelcomeTitle": "Boas-vindas de volta",
+    "authRegisterTitle": "Crie sua conta",
+    "authWelcomeDescription": "Acesse sua conta para continuar.",
+    "authRegisterDescription": "Cadastre seus dados para começar.",
+    "authHighlightEyebrow": "Seu próximo horário",
+    "authHighlightTitle": "Cuidado de verdade, do seu jeito.",
+    "authHighlightDescription": "Entre na sua conta para agendar, acompanhar seus horários e aproveitar seu plano.",
     "contactEyebrow": "Fale com a gente",
     "contactTitle": "Contato",
     "contactDescription": "Entre em contato ou venha nos visitar.",
     "footerCredit": "Feito utilizando tecnologia da Barbearia.Tech"
+  },
+  "footer": {
+    "credit": "Feito utilizando tecnologia da Barbearia.Tech",
+    "copyright": "Todos os direitos reservados.",
+    "privacyLabel": "Privacidade",
+    "cookiesLabel": "Cookies",
+    "termsLabel": "Termos de uso"
   },
   "layout": {
     "borderRadius": "lg",
