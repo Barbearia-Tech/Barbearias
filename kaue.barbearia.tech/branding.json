@@ -5,12 +5,12 @@
     "shortName": "Kauê"
   },
   "assets": {
-    "logoUrl": "https://raw.githubusercontent.com/OWNER/REPOSITORY/main/public/logo.png",
-    "logoMarkUrl": "https://raw.githubusercontent.com/OWNER/REPOSITORY/main/public/logo-mark.png",
-    "faviconUrl": "https://raw.githubusercontent.com/OWNER/REPOSITORY/main/public/logo.png",
-    "appleTouchIconUrl": "https://raw.githubusercontent.com/OWNER/REPOSITORY/main/public/logo.png",
-    "notificationIconUrl": "https://raw.githubusercontent.com/OWNER/REPOSITORY/main/public/favicon.svg",
-    "ogImage": "https://raw.githubusercontent.com/OWNER/REPOSITORY/main/public/og-image.png"
+    "logoUrl": "https://raw.githubusercontent.com/Barbearia-Tech/Barbearias/refs/heads/main/kaue.barbearia.tech/public/logo.png",
+    "logoMarkUrl": "https://raw.githubusercontent.com/Barbearia-Tech/Barbearias/refs/heads/main/kaue.barbearia.tech/public/logo-mark.png",
+    "faviconUrl": "https://raw.githubusercontent.com/Barbearia-Tech/Barbearias/refs/heads/main/kaue.barbearia.tech/public/logo.png",
+    "appleTouchIconUrl": "https://raw.githubusercontent.com/Barbearia-Tech/Barbearias/refs/heads/main/kaue.barbearia.tech/public/logo.png",
+    "notificationIconUrl": "https://raw.githubusercontent.com/Barbearia-Tech/Barbearias/refs/heads/main/kaue.barbearia.tech/public/favicon.svg",
+    "ogImage": "https://raw.githubusercontent.com/Barbearia-Tech/Barbearias/refs/heads/main/kaue.barbearia.tech/public/og-image.png"
   },
   "colors": {
     "primary": "#f04452",
@@ -32,7 +32,7 @@
   "metadata": {
     "title": "Barbearia do Kauê - Agendamento Online",
     "description": "Agende seu horário online.",
-    "canonicalUrl": "https://example.com/",
+    "canonicalUrl": "https://kaue.barbearia.tech",
     "ogTitle": "Barbearia do Kauê - Agendamento Online",
     "ogDescription": "Agende seu horário online.",
     "locale": "pt_BR",
